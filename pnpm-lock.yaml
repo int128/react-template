@@ -22,7 +22,7 @@ importers:
         specifier: 8.0.6
         version: 8.0.6
       '@types/node':
-        specifier: ^24.12.3
+        specifier: 24.12.4
         version: 24.12.4
       '@types/react':
         specifier: ^19.2.14
@@ -31,16 +31,16 @@ importers:
         specifier: ^19.2.3
         version: 19.2.3(@types/react@19.2.14)
       '@vitejs/plugin-react':
-        specifier: ^6.0.1
+        specifier: 6.0.2
         version: 6.0.2(vite@8.0.13(@types/node@24.12.4))
       pnpm:
         specifier: 11.1.2
         version: 11.1.2
       typescript:
-        specifier: ~6.0.2
+        specifier: 6.0.3
         version: 6.0.3
       vite:
-        specifier: ^8.0.12
+        specifier: 8.0.13
         version: 8.0.13(@types/node@24.12.4)
 
 packages:
