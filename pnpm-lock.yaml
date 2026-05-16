@@ -18,6 +18,9 @@ importers:
       '@eslint/js':
         specifier: ^10.0.1
         version: 10.0.1(eslint@10.4.0)
+      '@tsconfig/vite-react':
+        specifier: 8.0.6
+        version: 8.0.6
       '@types/node':
         specifier: ^24.12.3
         version: 24.12.4
@@ -311,6 +314,9 @@ packages:
 
   '@rolldown/pluginutils@1.0.1':
     resolution: {integrity: sha512-2j9bGt5Jh8hj+vPtgzPtl72j0yRxHAyumoo6TNfAjsLB04UtpSvPbPcDcBMxz7n+9CYB0c1GxQFxYRg2jimqGw==}
+
+  '@tsconfig/vite-react@8.0.6':
+    resolution: {integrity: sha512-O+Eg45m/oNBY9r0EsI/N3VnXvrT4SZbcjTYW5M50eoBVnIUXL+W+ha0uDkK1WqezflsBrHkBSEyn+WdewFJJmw==}
 
   '@tybys/wasm-util@0.10.2':
     resolution: {integrity: sha512-RoBvJ2X0wuKlWFIjrwffGw1IqZHKQqzIchKaadZZfnNpsAYp2mM0h36JtPCjNDAHGgYez/15uMBpfGwchhiMgg==}
@@ -1170,6 +1176,8 @@ snapshots:
     optional: true
 
   '@rolldown/pluginutils@1.0.1': {}
+
+  '@tsconfig/vite-react@8.0.6': {}
 
   '@tybys/wasm-util@0.10.2':
     dependencies:
