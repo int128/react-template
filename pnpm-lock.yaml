@@ -37,8 +37,8 @@ importers:
         specifier: 6.1.2
         version: 6.1.2(vite@8.3.1(@types/node@24.19.1))
       pnpm:
-        specifier: 11.28.3
-        version: 11.28.3
+        specifier: 11.28.5
+        version: 11.28.5
       typescript:
         specifier: 7.0.2
         version: 7.0.2
@@ -470,8 +470,8 @@ packages:
     resolution: {integrity: sha512-qcJu88Q2IWqJsDD529JKMdwGm/dvInW4HvQnRwiH9JtihJvzGOscDtHE3x1pBKeUOTysQ8kVmLnJ2kJu7yhcGA==}
     engines: {node: '>=12'}
 
-  pnpm@11.28.3:
-    resolution: {integrity: sha512-1JdgoTsXVZSHdaXUyxvEuocf8tyUGt+FFjDQRO1yL5tb6L5XvvkxZgmMgMcGvWEsKC0FUm3R0K5mAYjAhoIPNQ==}
+  pnpm@11.28.5:
+    resolution: {integrity: sha512-SEVj0wtMKtJ8tIqpT/KzAtvOvI/2vyiBbCWJiG4UbOf3bzVPO8GkOOb16XaMMCqgpvet2CMpA81M+BQmy8FNng==}
     engines: {node: '>=22.13'}
     hasBin: true
 
@@ -800,7 +800,7 @@ snapshots:
 
   picomatch@4.0.7: {}
 
-  pnpm@11.28.3: {}
+  pnpm@11.28.5: {}
 
   postcss@8.5.28:
     dependencies:
